@@ -17,6 +17,8 @@ public class Proyecto02 {
 "Versionado a través de Git\n" +
 "Manejado desde GitHub\n" +
 "Además se usar GitHubClassroom");
+      # Cambio en GitHub
+* Este cambio fue hecho directamente en GitHub
     }
     
 }
